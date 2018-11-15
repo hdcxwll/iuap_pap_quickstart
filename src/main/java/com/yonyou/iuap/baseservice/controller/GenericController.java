@@ -34,6 +34,7 @@ public abstract class GenericController<T extends Model> extends BaseController
 	  {
 		  System.out.println("=======");
 		  System.out.println("right====");
+		  System.out.println("left====");
 		  
 //		  JsonResponse jsonResp = buildError("msg", "返回测试", RequestStatusEnum.FAIL_FIELD);
 //		  return jsonResp;
