@@ -33,8 +33,7 @@ public abstract class GenericController<T extends Model> extends BaseController
 	  if(true)
 	  {
 		  System.out.println("=======");
-		  System.out.println("right====");
-		  System.out.println("left====");
+		  System.out.println("edit by gpf====");
 		  
 //		  JsonResponse jsonResp = buildError("msg", "返回测试", RequestStatusEnum.FAIL_FIELD);
 //		  return jsonResp;
